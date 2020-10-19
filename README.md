@@ -9,9 +9,9 @@
 
 - [Lesson Summary](./docs/summary.md)
 
-- [Handout](https://...)
+- [Handout](./docs/Handout - Node.js.pdf)
 
-- [Outline](https://...)
+- [Outline](./docs/Outline - Node.js.pdf)
 
 
 ### 🤔 Questions?
