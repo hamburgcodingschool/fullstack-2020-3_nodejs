@@ -1,0 +1,177 @@
+[
+    {
+      "species": "unknown",
+      "status": "Alive",
+      "originPlanet": "Unknown",
+      "gender": "Male",
+      "name": "Frieza"
+    },
+    {
+      "species": "Saiyan",
+      "status": "Alive",
+      "originPlanet": "Vegeta",
+      "gender": "Male",
+      "name": "Goku"
+    },
+    {
+      "species": "Saiyan",
+      "status": "Alive",
+      "originPlanet": "Vegeta",
+      "gender": "Male",
+      "name": "Vegeta"
+    },
+    {
+      "species": "Saiyan",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Male",
+      "name": "Gohan"
+    },
+    {
+      "species": "Android",
+      "status": "Dead",
+      "originPlanet": "Earth",
+      "gender": "Male",
+      "name": "Android16"
+    },
+    {
+      "species": "Namekian",
+      "status": "Alive",
+      "originPlanet": "Namek",
+      "gender": "Male",
+      "name": "Piccolo"
+    },
+    {
+      "species": "Majin",
+      "status": "Alive",
+      "originPlanet": "Majin",
+      "gender": "Male",
+      "name": "Fat_Majin_Buu"
+    },
+    {
+      "species": "Android",
+      "status": "Dead",
+      "originPlanet": "Earth",
+      "gender": "Male",
+      "name": "Cell"
+    },
+    {
+      "species": "Saiyan",
+      "status": "unknown",
+      "originPlanet": "Vegeta",
+      "gender": "Male",
+      "name": "Cunbar"
+    },
+    {
+      "species": "Saiyan",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Male",
+      "name": "Goten"
+    },
+    {
+      "species": "Human",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Male",
+      "name": "Krillin"
+    },
+    {
+      "species": "Human",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Female",
+      "name": "Bulma"
+    },
+    {
+      "species": "Android",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Male",
+      "name": "Android17"
+    },
+    {
+      "species": "Saiyan",
+      "status": "Dead",
+      "originPlanet": "Vegeta",
+      "gender": "Male",
+      "name": "Raditz"
+    },
+    {
+      "species": "Majin",
+      "status": "Dead",
+      "originPlanet": "Majin",
+      "gender": "Male",
+      "name": "Kid_Buu"
+    },
+    {
+      "species": "Saiyan",
+      "status": "Alive",
+      "originPlanet": "Vegeta",
+      "gender": "Male",
+      "name": "Gabriel"
+    },
+    {
+      "species": "unknown",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Genderless",
+      "name": "Piculo_olo"
+    },
+    {
+      "species": "Saiyan",
+      "status": "Alive",
+      "originPlanet": "Vegeta",
+      "gender": "Male",
+      "name": "Broly"
+    },
+    {
+      "species": "Android",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Female",
+      "name": "Android18"
+    },
+    {
+      "species": "Human",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Female",
+      "name": "Chi-Chi"
+    },
+    {
+      "species": "Namekian",
+      "status": "Alive",
+      "originPlanet": "Namek",
+      "gender": "Male",
+      "name": "Picollo"
+    },
+    {
+      "species": "Saiyan",
+      "status": "Alive",
+      "originPlanet": "Vegeta",
+      "gender": "Male",
+      "name": "goku"
+    },
+    {
+      "species": "Human",
+      "status": "Alive",
+      "originPlanet": "Earth",
+      "gender": "Male",
+      "name": "krilin"
+    },
+    {
+      "species": "Namekian",
+      "status": "unknown",
+      "originPlanet": "Namek",
+      "gender": "Male",
+      "name": "<h1>gaaaaaaaa</h1>"
+    },
+    {
+      "species": "unknown",
+      "status": "Alive",
+      "originPlanet": "Unknown",
+      "gender": "Male",
+      "name": "Jiren"
+    }
+  ]
