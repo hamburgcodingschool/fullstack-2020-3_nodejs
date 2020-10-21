@@ -3,7 +3,7 @@
 
 ### ✏️ Homework
 
-- Homework will be posted here
+- [Homework 1](./homework/homework1-rest-get)
 
 ### 📄 Docs
 
